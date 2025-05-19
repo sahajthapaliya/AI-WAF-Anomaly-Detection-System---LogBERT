@@ -1,6 +1,6 @@
 # WAF Anomaly Detection using LogBERT
 
-This directory contains the implementation of LogBERT for detecting anomalies in Web Application Firewall (WAF) command inputs. The implementation is based on the LogBERT framework developed by Helen Guoh and her team.
+This directory contains the implementation of LogBERT for detecting anomalies in Web Application Firewall (WAF) command inputs. The implementation is based on the LogBERT framework developed by Helen Guoh and her team. https://github.com/HelenGuohx/logbert.git. If needed to clone, go to this link and follow the instructions to get the base framework. I have uploaded only the files that are different to the original framework. Replace predict_log.py and train_log.py after the environment is installed. The directory to replace the files is Your Drive:\Your Project Folder\env\Lib\site-packages\bert_pytorch\. Make sure to install the necessary packages.
 
 ## Overview
 
@@ -60,31 +60,6 @@ python logbert.py train
 python logbert.py predict
 ```
 
-#### DeepLog
-
-```bash
-# Generate vocabulary
-python deeplog.py vocab
-
-# Train the model
-python deeplog.py train
-
-# Test the model
-python deeplog.py predict
-```
-
-#### LogAnomaly
-
-```bash
-# Generate vocabulary
-python loganomaly.py vocab
-
-# Train the model
-python loganomaly.py train
-
-# Test the model
-python loganomaly.py predict
-```
 
 ## Implementation Details
 
@@ -101,7 +76,7 @@ The `data_process.py` script:
 The models are configured with parameters optimized for the WAF command input task:
 
 - **LogBERT**: Uses a window size of 64, sequence length of 256, and minimum length of 5
-- **DeepLog** and **LogAnomaly**: Use a window size of 10 and LSTM hidden size of 64
+
 
 ## Evaluation
 
@@ -110,3 +85,5 @@ The models are evaluated on their ability to:
 2. Detect attack commands (detection rate)
 
 Results are stored in the `../output/waf/` directory. 
+
+I worked with highly imbalanced dataset. If you can find/generate a balanced dataset, then I recommend that.
