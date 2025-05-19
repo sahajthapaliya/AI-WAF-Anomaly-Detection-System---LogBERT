@@ -87,3 +87,4 @@ The models are evaluated on their ability to:
 Results are stored in the `../output/waf/` directory. 
 
 I worked with highly imbalanced dataset. If you can find/generate a balanced dataset, then I recommend that.
+Precision: 72.80%, Recall: 87.00%, F1-measure: 79.27%
