@@ -4,7 +4,7 @@ This directory contains the implementation of LogBERT for detecting anomalies in
 
 ## Overview
 
-The WAF implementation processes raw command inputs from various attack categories, tokenizes them, and trains the LogBERT model to detect anomalies. The implementation also includes baseline models like DeepLog and LogAnomaly for comparison.
+The WAF implementation processes raw command inputs from various attack categories, tokenizes them, and trains the LogBERT model to detect anomalies.
 
 ## Data Structure
 
